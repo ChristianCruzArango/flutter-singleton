@@ -1,4 +1,4 @@
-# singelton
+# singleton
 
 A new Flutter project.
 
